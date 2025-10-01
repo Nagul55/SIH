@@ -1,0 +1,7 @@
+Flask
+requests
+Flask-CORS
+Flask-SQLAlchemy
+Werkzeug
+Flask-Dance 
+oauthlib
